@@ -9,7 +9,7 @@ namespace VikaGusieva
         [Test]
         public void TestMethod1()
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Test 1");
         }
     }
 }
