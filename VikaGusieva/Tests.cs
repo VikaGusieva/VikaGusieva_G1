@@ -11,5 +11,11 @@ namespace VikaGusieva
         {
             Console.WriteLine("Test 1");
         }
+
+        [Test]
+        public void TestMethod2()
+        {
+            Console.WriteLine("Test 2");
+        }
     }
 }
